@@ -1,0 +1,1 @@
+var _$_12d5=["../index","ready","username","user","log","on"];const client=require(_$_12d5[0]);client[_$_12d5[5]](_$_12d5[1],()=>{console[_$_12d5[4]](`${client[_$_12d5[3]][_$_12d5[2]]} is ready!`)})
